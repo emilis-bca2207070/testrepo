@@ -1,2 +1,2 @@
 # testrepo
-repo for testing
+It is a repositiry for testing.
